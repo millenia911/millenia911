@@ -4,10 +4,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies in Machine Learning for Automation and Robotics.
+- 🤔 &nbsp; Exploring new technologies in Machine Learning for Automation, Robotics, and Internet of Things.
 - 🎓 &nbsp; Studying Electrical Engineering at Padjadjaran University.
 - 💼 &nbsp; Working as an Artificial Intelligence Engineer Intern at PT. Nodeflux Teknologi Indonesia.
-- 🌱 &nbsp; Learning more about MLOps, CI/CD, Robotic Operating System.
+- 🌱 &nbsp; Learning more about MLOps, CI/CD, Robot Operating System.
 - ✍️ &nbsp; Pursuing web development as side hustles.
 
 <h3> 🛠 &nbsp;Tech and Tools</h3>
@@ -37,8 +37,6 @@
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 - 📚 &nbsp;
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
