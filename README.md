@@ -1,4 +1,4 @@
-<img src=https://c.tenor.com/aRGcKj2V2eUAAAAd/obi-wan-star-wars.gif width="480" height="208" frameBorder="0"></img>
+<img src=https://c.tenor.com/aRGcKj2V2eUAAAAd/obi-wan-star-wars.gif ></img>
 
 <h2> Hello there! I'm Freddy 👋</h2>
 
