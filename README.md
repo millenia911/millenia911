@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies in Machine Learning for Automation, Robotics, and Internet of Things.
 - 🎓 &nbsp; Studying Electrical Engineering at Padjadjaran University.
 - 💼 &nbsp; Working as an Artificial Intelligence Engineer Intern at PT. Nodeflux Teknologi Indonesia.
-- 🌱 &nbsp; Learning more about MLOps, CI/CD, Robot Operating System.
+- 🌱 &nbsp; Learning more about MLOps.
 - ✍️ &nbsp; Pursuing web development as side hustles.
 
 <h3> 🛠 &nbsp;Tech and Tools</h3>
