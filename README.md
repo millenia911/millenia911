@@ -46,7 +46,7 @@
 
 <a href="https://github.com/millenia911">
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=millenia911&theme=buefy&show_icons=true" /> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=millenia911&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=millenia911&theme=buefy&layout=compact&hide=jupyter%20notebook" />
 </a>
 
 <br/>
