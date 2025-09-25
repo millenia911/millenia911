@@ -1,6 +1,6 @@
 <img src=https://c.tenor.com/aRGcKj2V2eUAAAAd/obi-wan-star-wars.gif ></img>
-<img src=https://media1.tenor.com/m/1YPNgqfVtggAAAAC/starwhocouldfly-rigby-cat.gif ></img>
-<img src=https://media1.tenor.com/m/OzUKhCaWbv0AAAAC/rigby-cat-rigby.gif ></img>
+<img src=https://c.tenor.com/1YPNgqfVtggAAAAC/tenor.gif ></img>
+<img src=https://c.tenor.com/OzUKhCaWbv0AAAAd/tenor.gif ></img>
 
 <h2> Hello there! I'm Freddy 👋</h2>
 
