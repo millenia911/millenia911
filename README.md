@@ -1,13 +1,15 @@
 <img src=https://c.tenor.com/aRGcKj2V2eUAAAAd/obi-wan-star-wars.gif ></img>
+<img src=https://media1.tenor.com/m/1YPNgqfVtggAAAAC/starwhocouldfly-rigby-cat.gif ></img>
+<img src=https://media1.tenor.com/m/OzUKhCaWbv0AAAAC/rigby-cat-rigby.gif ></img>
 
 <h2> Hello there! I'm Freddy 👋</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies in Machine Learning for Automation, Robotics, and Internet of Things.
-- 🎓 &nbsp; Studying Electrical Engineering at Padjadjaran University.
-- 🌱 &nbsp; Learning more about MLOps.
-- ✍️ &nbsp; Pursuing web development as side hustles.
+- 🎓 &nbsp; Electrical Engineering.
+- 🌱 &nbsp; Learning more about LLMs.
+- ✍️ &nbsp; Pursuing photography as side hustles.
 
 <h3> 🛠 &nbsp;Tech and Tools</h3>
 
